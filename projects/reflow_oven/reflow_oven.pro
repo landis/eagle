@@ -1,13 +1,13 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /home/jim/Documents/eagle/projects/reflow_oven/reflow_oven.brd
+Job           : C:/Users/jim/Documents/eagle/projects/reflow_oven/reflow_oven.brd
 
-Start at      : 17:27:18 (5/12/12)
-End at        : 17:27:18 (5/12/12)
+Start at      : 21:45:25 (5/12/2012)
+End at        : 21:45:25 (5/12/2012)
 Elapsed time  : 00:00:00
 
-Signals       :     5   RoutingGrid: 50 mil  Layers: 2
-Connections   :    18   predefined:  1 ( 0 Vias )
+Signals       :    15   RoutingGrid: 50 mil  Layers: 2
+Connections   :    42   predefined:  4 ( 0 Vias )
 
 Router memory :   24708
 
@@ -18,8 +18,8 @@ Number of Ripups  :         0         0         0         0         0         0
 max. Level        :         0         0         0         0         0         0
 max. Total        :         0         0         0         0         0         0
 
-Routed            :         2         6         6         6         6         6
-Vias              :         0         3         1         0         0         0
-Resolution        :    16.7 %    38.9 %    38.9 %    38.9 %    38.9 %    38.9 %
+Routed            :         3        15        15        15        15        15
+Vias              :         0         7         0         0         0         0
+Resolution        :    16.7 %    45.2 %    45.2 %    45.2 %    45.2 %    45.2 %
 
-Final             : 38.9% finished
+Final             : 45.2% finished
