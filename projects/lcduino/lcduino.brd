@@ -134,8 +134,8 @@
 <wire x1="80" y1="0" x2="80" y2="36" width="0" layer="20"/>
 <wire x1="80" y1="36" x2="0" y2="36.4" width="0" layer="20"/>
 <wire x1="0" y1="36.4" x2="0" y2="0" width="0" layer="20"/>
-<dimension x1="80" y1="36" x2="80" y2="0" x3="86" y3="18" layer="16"/>
-<dimension x1="0" y1="0" x2="80" y2="0" x3="40" y3="-6" layer="16"/>
+<dimension x1="80" y1="36" x2="80" y2="0" x3="86" y3="18" layer="20"/>
+<dimension x1="0" y1="0" x2="80" y2="0" x3="40" y3="-6" layer="20"/>
 <hole x="2" y="34" drill="2.8"/>
 <hole x="78" y="34" drill="2.8"/>
 <hole x="78" y="2" drill="2.8"/>
